@@ -1,0 +1,71 @@
+{
+  "ListHotel": [
+    {
+      "id": 1,
+      "name": "radisson blue",
+      "image": "sidibou.jpg",
+      "ville": "Hammamet",
+      "categorie": "luxe",
+      "avis": "tres bien",
+      "rate": 9,
+      "etoile": 5,
+      "pricesRoom": {
+        "single": 100,
+        "double": 150,
+        "triple": 200,
+        "quadruple": 250
+      },
+      "pricesCatering": {
+        "petitDej": "20",
+        "demiPension": 50,
+        "pensionComplete": 100,
+        "allIn": 150,
+        "addWeekEnd": 20
+      }
+    },
+    {
+      "name": "Africa jade",
+      "image": "../../assets/africajade2.jpg",
+      "ville": "Djerba",
+      "categorie": "luxe",
+      "avis": "tres bien",
+      "rate": 8.7,
+      "etoile": 4,
+      "pricesRoom": {
+        "single": 120,
+        "double": 150,
+        "triple": 200,
+        "quadruple": 250
+      },
+      "pricesCatering": {
+        "petitDej": "20",
+        "demiPension": 50,
+        "pensionComplete": 100,
+        "allIn": 150
+      },
+      "id": 2
+    },
+    {
+      "name": "El Mouradi",
+      "image": "aaaabbbbbbbbbb",
+      "ville": "Hammamet",
+      "categorie": "moyen",
+      "avis": "bien",
+      "rate": 6.3,
+      "etoile": 3,
+      "pricesRoom": {
+        "single": 50,
+        "double": 80,
+        "triple": 100,
+        "quadruple": 120
+      },
+      "pricesCatering": {
+        "petitDej": 20,
+        "demiPension": 40,
+        "pensionComplete": 50,
+        "allIn": 70
+      },
+      "id": 3
+    }
+  ]
+}
